@@ -71,7 +71,7 @@ font-style: 1.3rem;
 }
 #home::before{
     content: "";
-    background: url(client1.jpg) no-repeat center center/cover;
+    background: url(Food\ orodering.jpg) no-repeat center center/cover;
     position: absolute;
     height: 640px;
     top: 0px;
